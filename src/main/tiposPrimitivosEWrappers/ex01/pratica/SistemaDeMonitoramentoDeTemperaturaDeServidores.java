@@ -1,8 +1,8 @@
-package java.tiposPrimitivosEWrappers.ex01.pratica;
+package tiposPrimitivosEWrappers.ex01.pratica;
 
 import java.util.List;
 
-public class SistemaDeMunitoriamentoDeTemperaturaDeServidores {
+public class SistemaDeMonitoramentoDeTemperaturaDeServidores {
 
     public double calcularMedia(List<String> inputs) {
 

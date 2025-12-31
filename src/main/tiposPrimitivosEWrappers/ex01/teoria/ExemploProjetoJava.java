@@ -1,4 +1,4 @@
-package java.tiposPrimitivosEWrappers.ex01.teoria;
+package tiposPrimitivosEWrappers.ex01.teoria;
 
 public class ExemploProjetoJava {
 

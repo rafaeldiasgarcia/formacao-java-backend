@@ -1,10 +1,10 @@
-import java.tiposPrimitivosEWrappers.ex01.pratica.SistemaDeMunitoriamentoDeTemperaturaDeServidores;
+import tiposPrimitivosEWrappers.ex01.pratica.SistemaDeMonitoramentoDeTemperaturaDeServidores;
 
 import java.util.List;
 
 public static void main(String[] args) {
     // 1. Instancia sua classe
-    SistemaDeMunitoriamentoDeTemperaturaDeServidores sistema = new SistemaDeMunitoriamentoDeTemperaturaDeServidores();
+    SistemaDeMonitoramentoDeTemperaturaDeServidores sistema = new SistemaDeMonitoramentoDeTemperaturaDeServidores();
 
     // 2. Cria uma lista fake com testes (Válido, Erro, Nulo, Extremo)
     // Nota: Se der erro no List.of, troque por java.util.Arrays.asList(...)
