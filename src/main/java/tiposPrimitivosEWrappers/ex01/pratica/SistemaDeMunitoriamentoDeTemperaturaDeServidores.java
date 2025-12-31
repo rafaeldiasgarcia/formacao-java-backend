@@ -1,10 +1,11 @@
-package main.java.tiposPrimitivosEWrappers.pratica;
+package java.tiposPrimitivosEWrappers.ex01.pratica;
 
 import java.util.List;
 
 public class SistemaDeMunitoriamentoDeTemperaturaDeServidores {
 
     public double calcularMedia(List<String> inputs) {
+
         double soma = 0;
         int quantidade = 0;
 
