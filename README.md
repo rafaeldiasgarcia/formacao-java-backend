@@ -12,11 +12,17 @@ Este repositório serve como meu guia de estudos e portfólio de evolução na s
 
 | Fase | Conteúdo | Prazo | Início | Última Lição | Status |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | Fundamentos Java | 1-3 Semanas | 31/12/25 | --/--/-- | ⏳ Em breve |
+| 1 | Fundamentos Java | 1-3 Semanas | 31/12/25 | --/--/-- | 🚀 Em progresso |
 | 2 | Orientação a Objetos | 1-2 Meses | --/--/-- | --/--/-- | ⏳ Em breve |
 | 3 | Frameworks (Spring) | 3-4 Meses | --/--/-- | --/--/-- | ⏳ Em breve |
 | 4 | Banco de Dados | 2 Meses | --/--/-- | --/--/-- | ⏳ Em breve |
 | 5 | Arquitetura e Clean Code | 3 Meses | --/--/- | --/--/-- | ⏳ Em breve |
+
+⏳ Em breve
+
+🚀 Em progresso
+
+✅ Concluído
 
 ---
 
