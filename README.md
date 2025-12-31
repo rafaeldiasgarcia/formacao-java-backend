@@ -29,7 +29,7 @@ Este repositório serve como meu guia de estudos e portfólio de evolução na s
 ## 📚 Detalhamento das Fases
 
 ### 1. Fundamentos Java (1-3 semanas)
-- [ ] Instalação do JDK 21+ e IntelliJ IDEA.
+- [x] Instalação do JDK 21+ e IntelliJ IDEA.
 - [ ] Tipos Primitivos e Wrappers.
 - [ ] Estruturas de Controle (`if/else`, `switch`).
 - [ ] Estruturas de Repetição (`for`, `while`).
