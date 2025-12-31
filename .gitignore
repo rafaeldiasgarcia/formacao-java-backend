@@ -1,0 +1,21 @@
+# Compilados
+*.class
+*.jar
+*.war
+*.ear
+target/
+bin/
+
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# Log e SO
+*.log
+.DS_Store
+Thumbs.db
+
+# README
+
+README.md
