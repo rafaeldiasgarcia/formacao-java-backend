@@ -1,4 +1,4 @@
-import tiposPrimitivosEWrappers.pratica.SistemaDeMunitoriamentoDeTemperaturaDeServidores;
+import main.java.tiposPrimitivosEWrappers.pratica.SistemaDeMunitoriamentoDeTemperaturaDeServidores;
 
 import java.util.List;
 
