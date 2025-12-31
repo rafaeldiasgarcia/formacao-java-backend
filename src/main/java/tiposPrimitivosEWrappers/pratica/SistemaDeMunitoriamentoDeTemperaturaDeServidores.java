@@ -1,4 +1,4 @@
-package tiposPrimitivosEWrappers.pratica;
+package main.java.tiposPrimitivosEWrappers.pratica;
 
 import java.util.List;
 

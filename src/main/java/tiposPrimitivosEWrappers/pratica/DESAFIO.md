@@ -36,7 +36,7 @@ public double calcularMedia(List<String> inputs) {
 }
 ```
 
-## ✅ Casos de Teste Sugeridos
+## ✅ Casos de ex01.Teste Sugeridos
 
 ```java
 List<String> teste1 = List.of("80", "90", "85", "ERR", "100");
