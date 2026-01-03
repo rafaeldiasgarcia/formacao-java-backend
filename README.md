@@ -12,7 +12,7 @@ Este repositório serve como meu guia de estudos e portfólio de evolução na s
 ## 📊 Status Atual do Roadmap
 > **Fase Atual:** 1 - Fundamentos Sólidos (Java Core)
 > 
-> **Tópico em foco:** **Controle de Fluxo:** `if/else`, `switch` moderno, loops (`for`, `while`).
+> **Tópico em foco:** **Orientação a Objetos Real:** Classes, Objetos e Construtores
 
 | Fase | Pilar | Prazo Est. | Início | Última Lição | Status |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -33,7 +33,7 @@ Este repositório serve como meu guia de estudos e portfólio de evolução na s
 
 - [x] **Setup:** JDK 21+ (LTS) e IntelliJ IDEA.
 - [x] **Básico:** Tipos Primitivos e Wrappers (int vs Integer).
-- [ ] **Controle de Fluxo:** `if/else`, `switch` moderno, loops (`for`, `while`).
+- [x] **Controle de Fluxo:** `if/else`, `switch` moderno, loops (`for`, `while`).
 - [ ] **Orientação a Objetos Real:**
     - [ ] Classes, Objetos e Construtores.
     - [ ] Encapsulamento e Modificadores de Acesso.
@@ -111,7 +111,7 @@ Atue como um Professor de Programação Java focado em **iniciantes**. Estou apr
 
 
 # Objetivo
-Estou na fase **[1. Fundamentos Sólidos]** e o tópico de hoje é **Controle de Fluxo: if/else, switch moderno, loops (for, while).**.
+Estou na fase **[1. Fundamentos Sólidos]** e o tópico de hoje é **Orientação a Objetos Real:** Classes, Objetos e Construtores.
 Quero entender como isso funciona e como escrever o código básico corretamente.
 
 
