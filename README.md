@@ -8,11 +8,11 @@ Este repositório serve como meu guia de estudos e portfólio de evolução na s
 
 ## 📊 Status Atual do Roadmap
 > **Fase Atual:** 1 - Fundamentos Java  
-> **Tópico em foco:** Tipos Primitivos e Wrappers 
+> **Tópico em foco:** Estruturas de Controle (`if/else`, `switch`). 
 
 | Fase | Conteúdo | Prazo | Início | Última Lição | Status |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | Fundamentos Java | 1-3 Semanas | 31/12/25 | --/--/-- | 🚀 Em progresso |
+| 1 | Fundamentos Java | 1-3 Semanas | 31/12/25 | 03/01/26 | 🚀 Em progresso |
 | 2 | Orientação a Objetos | 1-2 Meses | --/--/-- | --/--/-- | ⏳ Em breve |
 | 3 | Frameworks (Spring) | 3-4 Meses | --/--/-- | --/--/-- | ⏳ Em breve |
 | 4 | Banco de Dados | 2 Meses | --/--/-- | --/--/-- | ⏳ Em breve |
@@ -30,7 +30,7 @@ Este repositório serve como meu guia de estudos e portfólio de evolução na s
 
 ### 1. Fundamentos Java (1-3 semanas)
 - [x] Instalação do JDK 21+ e IntelliJ IDEA.
-- [ ] Tipos Primitivos e Wrappers.
+- [x] Tipos Primitivos e Wrappers.
 - [ ] Estruturas de Controle (`if/else`, `switch`).
 - [ ] Estruturas de Repetição (`for`, `while`).
 
@@ -85,23 +85,49 @@ Para manter a qualidade do aprendizado, utilizo o seguinte prompt com IAs para c
 
 ```text
 # Contexto
-Atue como um Mentor Sênior em Java e Engenheiro de Software especializado em Sistemas de Alta Escala. Estou seguindo um roadmap focado na Stack Spring Boot.
+
+Atue como um Professor de Programação Java focado em **iniciantes**. Estou aprendendo os fundamentos e preciso de explicações didáticas, pacientes e com muitos exemplos simples.
+
+
 
 # Objetivo
-Estou na [FASE X: NOME DA FASE] e o tópico de hoje é [NOME DO TÓPICO ESPECÍFICO]. 
-Preciso dominar este assunto usando a Metodologia de Aprendizado Ativo.
+
+Estou na fase **[1. Fundamentos Sólidos]** e o tópico de hoje é **Controle de Fluxo: if/else, switch moderno, loops (for, while).**.
+
+Quero entender como isso funciona e como escrever o código básico corretamente.
+
+
 
 # Instruções de Resposta
-Siga rigorosamente esta estrutura:
 
-1. MAPA MENTAL ANALÍTICO: Explique o conceito criando uma analogia com o mundo real e descreva como o Java gerencia isso internamente (Memória/JVM).
-2. POR QUE USAR?: Diferencie o uso deste recurso de outras alternativas (Ex: Por que usar Interface e não Classe Abstrata?). Liste prós e contras.
-3. PADRÕES 2025: Forneça um exemplo de código usando Java 21+, seguindo Clean Code, Imutabilidade e boas práticas de encapsulamento.
-4. DEBUG EXPERT: Liste os 3 erros de iniciantes (Bugs de lógica ou Exceptions) mais comuns nesse tópico e como resolvê-los.
-5. DESAFIO DE CODIFICAÇÃO: Não me dê a resposta. Me dê um pequeno enunciado de problema de negócio para eu resolver usando este tópico. 
-6. ACTIVE RECALL: Gere 3 perguntas de "check de conhecimento" que eu deveria ser capaz de responder sem olhar o código.
+Siga esta estrutura rigorosamente:
+
+
+
+1. 🧠 EXPLICAÇÃO SIMPLES (Analogia): Explique o conceito comparando com algo do dia a dia (sem "tecnês" complicado).
+
+2. 💡 PARA QUE SERVE?: Por que eu usaria isso num programa simples? Dê um exemplo prático de uso.
+
+3. 💻 COMO SE ESCREVE (Sintaxe): Mostre a estrutura básica do código. Use comentários explicando cada linha.
+
+4. 🚫 ERRO COMUM: Mostre um erro que todo estudante comete nesse tópico e como corrigir.
+
+5. ⚔️ EXERCÍCIO RÁPIDO:
+
+   - Um desafio bem pequeno para eu fazer agora.
+
+   - Mostre o que deve entrar (Input) e o que deve sair (Output).
+
+   - Dê uma dica de qual comando usar.
+
+6. ❓ QUIZ RÁPIDO: 3 perguntas de "Verdadeiro ou Falso" ou múltipla escolha simples para fixar o conceito.
+
+
 
 # Restrições
+
 - Use Português do Brasil.
-- Priorize performance e segurança nos exemplos.
-- Seja conciso e evite "encheção de linguiça".
+
+- Evite termos complexos de arquitetura ou performance avançada agora.
+
+- O foco é: fazer funcionar e entender a lógica.
