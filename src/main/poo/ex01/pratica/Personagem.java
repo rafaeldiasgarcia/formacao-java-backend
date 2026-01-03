@@ -1,4 +1,4 @@
-package poo.ex02.ex01.pratica;
+package poo.ex01.pratica;
 
 public class Personagem {
     private String nome;

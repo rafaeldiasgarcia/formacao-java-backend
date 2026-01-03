@@ -1,6 +1,8 @@
-package poo.ex02.pratica;
+package poo.ex02;
 
-public class Main {
+import poo.ex02.pratica.Personagem;
+
+public class TestePersonagem {
     public static void main(String[] args) {
         Personagem heroi = new Personagem("Aragorn", 100);
         Personagem oponente = new Personagem("Orc", 30);
