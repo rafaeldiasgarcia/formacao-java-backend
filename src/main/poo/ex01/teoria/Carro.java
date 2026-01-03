@@ -1,4 +1,4 @@
-package poo.ex02.ex01.teoria;
+package poo.ex01.teoria;
 
 // 1. Definição da CLASSE (O Molde)
 // O nome da classe geralmente começa com Letra Maiúscula
