@@ -35,8 +35,8 @@ Este repositório serve como meu guia de estudos e portfólio de evolução na s
 - [x] **Básico:** Tipos Primitivos e Wrappers (int vs Integer).
 - [x] **Controle de Fluxo:** `if/else`, `switch` moderno, loops (`for`, `while`).
 - [ ] **Orientação a Objetos Real:**
-    - [ ] Classes, Objetos e Construtores.
-    - [ ] Encapsulamento e Modificadores de Acesso.
+    - [x] Classes, Objetos e Construtores.
+    - [x] Encapsulamento e Modificadores de Acesso.
     - [ ] Herança e Polimorfismo.
     - [ ] Interfaces e Classes Abstratas.
 - [ ] **Essencial para Entrevistas:**
