@@ -1,4 +1,4 @@
-package poo.ex02;
+package poo.classeObjetosEConstrutores.ex02;
 
 import poo.classeObjetosEConstrutores.ex02.pratica.Personagem;
 
