@@ -1,6 +1,6 @@
 package poo.ex02;
 
-import poo.ex02.pratica.Personagem;
+import poo.classeObjetosEConstrutores.ex02.pratica.Personagem;
 
 public class TestePersonagem {
     public static void main(String[] args) {
