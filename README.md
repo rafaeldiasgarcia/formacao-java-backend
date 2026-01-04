@@ -46,6 +46,7 @@ Este repositório serve como meu guia de estudos e portfólio de evolução na s
 - [ ] **Profissionalismo:**
     - [ ] Tratamento de Exceções (`try-catch`, `try-with-resources`).
     - [ ] Debugging básico no IntelliJ.
+    - [ ] Estudar JVM.
 
 ### 2. Ecossistema Spring (O Padrão de Mercado)
 *Aprendendo a ferramenta principal de trabalho (Pilar 2 do Roadmap).*
