@@ -1,4 +1,4 @@
-package poo.ex01.teoria;
+package poo.classeObjetosEConstrutores.ex01.teoria;
 
 public class Garagem {
     public static void main(String[] args) {

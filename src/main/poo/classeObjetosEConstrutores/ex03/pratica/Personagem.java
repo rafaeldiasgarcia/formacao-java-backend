@@ -1,4 +1,4 @@
-package poo.ex01.pratica;
+package poo.classeObjetosEConstrutores.ex03.pratica;
 
 public class Personagem {
     private String nome;
@@ -7,6 +7,11 @@ public class Personagem {
     public Personagem(String nomePersonagem, int forcaPersonagem) {
         this.nome = nomePersonagem;
         this.forca = forcaPersonagem;
+    }
+
+    public Personagem(String nomePersonagem) {
+        this.nome = nomePersonagem;
+        this.forca = 50;
     }
 
     public void atacar(Personagem oponente) {
@@ -29,5 +34,13 @@ public class Personagem {
 
     public int getForca() {
         return forca;
+    }
+
+    public void setForca(int novaForca) {
+        if (novaForca >= 0) {
+            this.forca = novaForca;
+        } else {
+            System.out.println("Erro: A força não pode ser negativa!");
+        }
     }
 }
