@@ -112,7 +112,7 @@ Atue como um Professor de Programação Java focado em **iniciantes**. Estou apr
 
 
 # Objetivo
-Estou na fase **[1. Fundamentos Sólidos]** e o tópico de hoje é **Orientação a Objetos Real:** Classes, Objetos e Construtores.
+Estou na fase **[1. Fundamentos Sólidos]** e o tópico de hoje é **Orientação a Objetos Real:** Interfaces e Classes Abstratas.
 Quero entender como isso funciona e como escrever o código básico corretamente.
 
 
