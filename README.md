@@ -12,7 +12,7 @@ Este repositório serve como meu guia de estudos e portfólio de evolução na s
 ## 📊 Status Atual do Roadmap
 > **Fase Atual:** 1 - Fundamentos Sólidos (Java Core)
 > 
-> **Tópico em foco:** **Orientação a Objetos Real:** Interfaces e Classes Abstratas.
+> **Tópico em foco:** **Essencial para Entrevistas:** **Collections:** List (ArrayList), Set e Map (HashMap).
 
 | Fase | Pilar | Prazo Est. | Início | Última Lição | Status |
 | :--- | :--- | :--- | :--- | :--- | :--- |
