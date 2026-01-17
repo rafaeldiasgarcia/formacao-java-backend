@@ -17,7 +17,7 @@ public class ex04 {
         for (int i = 0; i < itens.size(); i++) {
             sb.append(itens.get(i));
             if (i < itens.size() - 1) {
-                sb.append(",");
+                sb.append(", ");
             }
         }
         return sb.toString();
