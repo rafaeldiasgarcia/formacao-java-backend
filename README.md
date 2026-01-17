@@ -76,7 +76,7 @@ Este repositório serve como meu guia de estudos e portfólio de evolução na s
 
     - [x] **Collections:** List (ArrayList), Set e Map (HashMap).
 
-    - [ ] **Strings:** Imutabilidade e Manipulação.
+    - [x] **Strings:** Imutabilidade e Manipulação.
 
     - [ ] **Java Moderno:** Noções básicas de Streams e Lambdas.
 
