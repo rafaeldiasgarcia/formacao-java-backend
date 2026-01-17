@@ -26,7 +26,8 @@ Este repositório serve como meu guia de estudos e portfólio de evolução na s
 
 > 
 
-> **Tópico em foco:** **Essencial para Entrevistas:** **Collections:** List (ArrayList), Set e Map (HashMap).
+> **Tópico em foco:** **Essencial para Entrevistas:**
+> > **Strings:** Imutabilidade e Manipulação.
 
 
 | Fase | Conteúdo | Prazo | Início | Última Lição | Status |
