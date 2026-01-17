@@ -1,4 +1,3 @@
-# Respostas - Active Recall: Strings em Java
 
 ### 1. Se eu tiver um loop for que roda 10.000 vezes e, dentro dele, eu fizer `texto = texto + "a";`, o que acontece na memória do computador (Heap) e por que isso é considerado uma má prática de performance?
 Como as Strings em Java são imutáveis, a cada iteração do loop, o Java não altera o objeto original. Em vez disso, ele cria um novo objeto String no Heap contendo o resultado da concatenação (`texto` anterior + `"a"`). 
