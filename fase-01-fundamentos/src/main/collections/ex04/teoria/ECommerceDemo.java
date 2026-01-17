@@ -24,7 +24,7 @@ public class ECommerceDemo {
         categoriasDisponiveis.add("Livros");
         categoriasDisponiveis.add("Eletrônicos"); // O Java ignora silenciosamente esta linha
         
-        System.out.println("\n--- Categorias (Set) ---");
+        System.out.println("\n---- Categorias (Set) ----");
         for (String categoria : categoriasDisponiveis) {
             System.out.println("Categoria: " + categoria);
         }
