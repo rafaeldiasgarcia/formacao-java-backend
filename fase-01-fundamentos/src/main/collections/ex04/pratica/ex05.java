@@ -24,7 +24,7 @@ public class ex05 {
 
             double media = soma / notas.size();
 
-            System.out.println("Aluno: " + aluno + " | Média: " + media);
+            System.out.println("Aluno: " + aluno + " || Média: " + media);
 
         }
     }

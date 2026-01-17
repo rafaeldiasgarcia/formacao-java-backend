@@ -6,7 +6,7 @@
 
 **Pergunta:** Se eu tenho uma lista de 1 milhão de CPFs e preciso verificar rapidamente se um CPF específico já existe nela, por que usar um ArrayList seria uma má ideia comparado a um HashSet? Explique baseado em como eles buscam os dados.
 
-**Resposta:** O ArrayList precisaria percorrer item por item (busca linear O(n)) até encontrar o CPF, o que no pior caso levaria 1 milhão de comparações. Já o HashSet usa uma tabela hash (O(1)), indo direto ao "endereço" onde o CPF deveria estar, tornando a busca instantânea, independente do tamanho da lista.
+**Resposta:** O ArrayList precisaria percorrer cada item (busca linear O(n)) até encontrar o CPF, o que no pior caso levaria 1 milhão de comparações. Já o HashSet usa uma tabela hash (O(1)), indo direto ao "endereço" onde o CPF deveria estar, tornando a busca instantânea, independente do tamanho da lista.
 
 ---
 

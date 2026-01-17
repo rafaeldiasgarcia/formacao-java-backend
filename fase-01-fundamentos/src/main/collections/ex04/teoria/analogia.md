@@ -5,7 +5,7 @@ As Collections em Java são estruturas de dados prontas para armazenar e manipul
 ## 📐 Analogia
 
 ### 📻 List (ArrayList) é como uma Playlist do Spotify
-**Como funciona:** A ordem importa (música 1, depois música 2).
+**Como funciona:** A ordem importa (música 1, depois música 2)
 **Detalhe:** Você pode colocar a mesma música duas vezes na playlist se quiser ouvir de novo. **Aceita duplicatas e mantém a ordem.**
 
 ---

@@ -1,6 +1,6 @@
 # 🏆 Desafios: Dominando Collections
 
-## Challenge 1: A Lista de Tarefas (List)
+## Challenge 1: TO DO LIST (List)
 **Cenário:** Você está criando um app simples de To-Do List.
 **Sua Missão:** 
 1. Crie uma `ArrayList` de Strings. 

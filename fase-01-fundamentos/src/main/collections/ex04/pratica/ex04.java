@@ -8,7 +8,7 @@ import java.util.Map;
 public class ex04 {
     public static void main(String[] args) {
 
-        List<String> linguagens = Arrays.asList("java", "python", "java", "c++", "java", "python");
+        List<String> linguagens = Arrays.asList("java", "python", "java", "c++", "java", "python", "java");
 
         Map<String, Integer> contador = new HashMap<>();
 

@@ -8,7 +8,7 @@ public class ex01 {
         ArrayList<String> todo = new ArrayList<>();
 
         todo.add("Fazer almoço");
-        todo.add("Passear com cachorro");
+        todo.add("Passear com cachorros");
         todo.add("Fechar loja");
 
         todo.remove(1);

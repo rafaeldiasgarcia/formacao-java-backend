@@ -6,7 +6,7 @@ public class ECommerceDemo {
     public static void main(String[] args) {
         
         // 1. LIST: Histórico de Compras (Ordem importa, duplicatas permitidas)
-        // Usamos List porque o cliente pode comprar o mesmo item em momentos diferentes.
+        // Usamos List porque o cliente pode comprar o mesmo item em momentos diferentes
         List<String> historicoCompras = new ArrayList<>();
         historicoCompras.add("Notebook Dell");
         historicoCompras.add("Mouse Logitech");

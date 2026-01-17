@@ -7,7 +7,7 @@ import java.util.List;
 public class ex02 {
     public static void main(String[] args) {
 
-        List<String> emails = Arrays.asList("a@a.com", "b@b.com", "a@a.com", "c@c.com");
+        List<String> emails = Arrays.asList("a@a.com", "b@b.com", "a@a.com", "c@c.com", "a@a.com");
 
         HashSet<String> emailsUnicos = new HashSet<>();
         emailsUnicos.addAll(emails);
