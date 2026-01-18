@@ -1,0 +1,7 @@
+Introdução a Sistemas de Bancos de Dados (C. J. Date) — Para a matéria de Design e Desenvolvimento de Banco de Dados.
+
+Engenharia de Software: Uma Abordagem Profissional (Roger S. Pressman).
+
+Java: Como Programar (Deitel & Deitel).
+
+Sistemas Operacionais Modernos (Andrew S. Tanenbaum).
