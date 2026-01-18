@@ -8,7 +8,6 @@ Este repositório serve como meu guia de estudos e portfólio de evolução na s
 
 > 📺 Baseado no **Roadmap Java 2026** (Visão de Longo Prazo e Mercado).
 
->
 
 > > 📺 Baseado no Roadmap de [Matheus Leandro Ferreira](https://youtu.be/bVfrpt_OmQA?si=f6TyflIKG0IAncxy).
 
@@ -24,19 +23,19 @@ Este repositório serve como meu guia de estudos e portfólio de evolução na s
 
 > **Fase Atual:** 1 - Fundamentos Sólidos (Java Core)
 
-> 
+
 
 > **Tópico em foco:** **Essencial para Entrevistas:**
 > > **Strings:** Imutabilidade e Manipulação.
 
 
-| Fase | Conteúdo | Prazo | Início | Última Lição | Status |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | Fundamentos Java | 1-3 Semanas | 31/12/25 | 17/01/26 | 🚀 Em progresso |
-| 2 | Orientação a Objetos | 1-2 Meses | --/--/-- | --/--/-- | ⏳ Em breve |
-| 3 | Frameworks (Spring) | 3-4 Meses | --/--/-- | --/--/-- | ⏳ Em breve |
-| 4 | Banco de Dados | 2 Meses | --/--/-- | --/--/-- | ⏳ Em breve |
-| 5 | Arquitetura e Clean Code | 3 Meses | --/--/- | --/--/-- | ⏳ Em breve |
+| Fase | Pilar | Prazo Est. | Início | Última Lição | Status |
+| :--- | :--- | :--- | :--- |:-------------| :--- |
+| 1 | **Fundamentos Sólidos** (Sintaxe, OO, Lógica) | 1-2 Meses | 31/12/25 | 18/01/26     | 🚀 Em progresso |
+| 2 | **Ecossistema Spring** (Boot, Web, Data) | 2-3 Meses | --/--/-- | --/--/--     | ⏳ Em breve |
+| 3 | **Backend Profissional** (APIs, Erros, Paginação) | 2 Meses | --/--/-- | --/--/--     | ⏳ Em breve |
+| 4 | **Engenharia de Dados** (SQL, Banco, Migrations) | 2 Meses | --/--/-- | --/--/--     | ⏳ Em breve |
+| 5 | **Arquitetura e Carreira** (Clean Code, Testes) | 3 Meses | --/--/-- | --/--/--     | ⏳ Em breve |
 
 ⏳ Em breve
 
