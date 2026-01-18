@@ -1,8 +1,13 @@
 package strings.ex01.pratica;
 
+import java.util.Scanner;
+
 public class ex05 {
     public static void main(String[] args) {
-        String texto = "Ame o poema";
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Escreva uma frase: ");
+
+        String texto = sc.nextLine();
         boolean ehPalindromo = verificarPalindromo(texto);
         System.out.println("\"" + texto + "\" é um palíndromo? " + ehPalindromo);
     }
