@@ -24,8 +24,10 @@ public class DetetiveDeAnagramas {
     }
 
     public static void main(String[] args) {
+
         System.out.println(saoAnagramas("AMOR", "ROMA")); // true
         System.out.println(saoAnagramas("JAVA", "AVAJ")); // true
         System.out.println(saoAnagramas("CASA", "CASO")); // false
+
     }
 }
