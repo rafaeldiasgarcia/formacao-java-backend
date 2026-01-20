@@ -6,7 +6,7 @@ import java.util.List;
 
 public class ExemploListaImutavel {
 
-    public static void main() {
+    public static void main(String[] args) {
 
         List<String> listaImutavel = Collections.unmodifiableList(new ArrayList<String>());
 
