@@ -77,7 +77,7 @@ Este repositório serve como meu guia de estudos e portfólio de evolução na s
 
     - [x] **Strings:** Imutabilidade e Manipulação.
 
-    - [ ] **Java Moderno:** Noções básicas de Streams e Lambdas.
+    - [x] **Java Moderno:** Noções básicas de Streams e Lambdas.
 
 - [ ] **Profissionalismo:**
 
