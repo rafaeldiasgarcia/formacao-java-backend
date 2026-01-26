@@ -24,6 +24,5 @@ public class ExceptionTest01 {
             e.printStackTrace(); //
 
         }
-
     }
 }
