@@ -3,7 +3,7 @@
 ## Challenge 1: TO DO LIST (List)
 **Cenário:** Você está criando um app simples de To-Do List.
 **Sua Missão:** 
-1. Crie uma `ArrayList` de Strings. 
+1. Crie uma `ArrayList` de strings. 
 2. Adicione 3 tarefas. 
 3. Remova a segunda tarefa (pelo índice). 
 4. Imprima as tarefas restantes.

@@ -54,7 +54,7 @@ public class AulaCollections {
     public static void main(String[] args) {
 
         // 1. LIST (Permite repetidos e tem índice 0, 1, 2...)
-        // Lemos: "Uma Lista de Strings chamada frutas é um novo ArrayList"
+        // Lemos: "Uma Lista de strings chamada frutas é um novo ArrayList"
         List<String> frutas = new ArrayList<>();
         frutas.add("Maçã");
         frutas.add("Banana");

@@ -1,4 +1,4 @@
-package StreamsELambdas.ex01;
+package streamsELambdas;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;

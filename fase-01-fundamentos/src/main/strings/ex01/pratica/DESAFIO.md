@@ -1,4 +1,4 @@
-# Desafio - Manipulação de Strings
+# Desafio - Manipulação de strings
 
 Agora é hora de sujar as mãos. Resolva os desafios abaixo. Tente não usar IA para gerar o código, use apenas a documentação do Java se precisar.
 
@@ -19,7 +19,7 @@ Agora é hora de sujar as mãos. Resolva os desafios abaixo. Tente não usar IA 
 
 ### Desafio 4: O Gerador de CSV (Performance)
 - **Cenário:** Você precisa exportar uma lista de 100 nomes para um arquivo CSV (valores separados por vírgula).
-- **Objetivo:** Receba um Array ou Lista de Strings (ex: `["Ana", "Beto", "Carla"]`). Use `StringBuilder` para montar uma única String final onde os nomes sejam separados por vírgula, sem vírgula no final (ex: `"Ana,Beto,Carla"`).
+- **Objetivo:** Receba um Array ou Lista de strings (ex: `["Ana", "Beto", "Carla"]`). Use `StringBuilder` para montar uma única String final onde os nomes sejam separados por vírgula, sem vírgula no final (ex: `"Ana,Beto,Carla"`).
 
 ### Desafio 5: O Validador de Palíndromo
 - **Cenário:** Entrevistas técnicas adoram isso. Um palíndromo é uma palavra/frase que se lê igual de trás para frente (desconsiderando espaços).

@@ -1,6 +1,6 @@
-# Analogia: Strings vs. StringBuilder
+# Analogia: strings vs. StringBuilder
 
-### Explicação Técnica: A Piscina de Strings (String Pool)
+### Explicação Técnica: A Piscina de strings (String Pool)
 
 Em Java, a classe `String` é **imutável**. Isso significa que, uma vez criado um objeto String, seu conteúdo nunca muda.
 
@@ -17,7 +17,7 @@ O Java **não** edita o objeto original `"Olá"`. Ele faz o seguinte:
 5. O `"Olá"` original fica perdido na memória (até o *Garbage Collector* limpar).
 
 #### Otimização: String Pool
-Para otimizar isso, o Java usa o **String Pool** (uma área especial na memória Heap). Se você cria duas variáveis com o valor `"Java"`, o Java aponta ambas para o mesmo lugar na memória para economizar espaço. Se Strings fossem mutáveis, alterar uma variável afetaria a outra automaticamente, o que seria catastrófico.
+Para otimizar isso, o Java usa o **String Pool** (uma área especial na memória Heap). Se você cria duas variáveis com o valor `"Java"`, o Java aponta ambas para o mesmo lugar na memória para economizar espaço. Se strings fossem mutáveis, alterar uma variável afetaria a outra automaticamente, o que seria catastrófico.
 
 Para manipulações pesadas (ex: loops), usamos `StringBuilder` (ou `StringBuffer`), que são mutáveis e trabalham no mesmo espaço de memória.
 

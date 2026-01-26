@@ -26,7 +26,7 @@ Este repositório serve como meu guia de estudos e portfólio de evolução na s
 
 
 > **Tópico em foco:** **Essencial para Entrevistas:**
-> > **Strings:** Imutabilidade e Manipulação.
+> > **strings:** Imutabilidade e Manipulação.
 
 
 | Fase | Pilar | Prazo Est. | Início | Última Lição | Status |
@@ -75,7 +75,7 @@ Este repositório serve como meu guia de estudos e portfólio de evolução na s
 
     - [x] **Collections:** List (ArrayList), Set e Map (HashMap).
 
-    - [x] **Strings:** Imutabilidade e Manipulação.
+    - [x] **strings:** Imutabilidade e Manipulação.
 
     - [x] **Java Moderno:** Noções básicas de Streams e Lambdas.
 
