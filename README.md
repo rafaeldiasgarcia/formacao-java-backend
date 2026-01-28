@@ -71,7 +71,7 @@ Este repositório serve como meu guia de estudos e portfólio de evolução na s
 
     - [x] Interfaces e Classes Abstratas.
 
-- [ ] **Essencial para Entrevistas:**
+- [x] **Essencial para Entrevistas:**
 
     - [x] **Collections:** List (ArrayList), Set e Map (HashMap).
 
@@ -81,7 +81,7 @@ Este repositório serve como meu guia de estudos e portfólio de evolução na s
 
 - [ ] **Profissionalismo:**
 
-    - [ ] Tratamento de Exceções (`try-catch`, `try-with-resources`).
+    - [x] Tratamento de Exceções (`try-catch`, `try-with-resources`).
 
     - [ ] Debugging básico no IntelliJ.
 
