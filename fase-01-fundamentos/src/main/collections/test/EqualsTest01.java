@@ -9,9 +9,9 @@ public class EqualsTest01 {
 //       System.out.println(nome.equals(nome2));
 
         Smartphone s1 = new Smartphone("1ABC1", "iPhone");
-        Smartphone s2 = new Smartphone("1ABC1", "iPhone");
+        Smartphone s2 = new Smartphone("1ABC1", "Pixel");
         // Smartphone s2 = s1;
-        System.out.println(s1.equals(s2)); // false
+        System.out.println(s1.equals(s2)); // true porque sobrescrevi o .equals
 
 
     }
