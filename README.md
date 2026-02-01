@@ -31,7 +31,7 @@ Este repositório serve como meu guia de estudos e portfólio de evolução na s
 
 | Fase | Pilar | Prazo Est. | Início | Última Lição | Status |
 | :--- | :--- | :--- | :--- |:-------------| :--- |
-| 1 | **Fundamentos Sólidos** (Sintaxe, OO, Lógica) | 1-2 Meses | 31/12/25 | 27/01/26     | 🚀 Em progresso |
+| 1 | **Fundamentos Sólidos** (Sintaxe, OO, Lógica) | 1-2 Meses | 31/12/25 | 01/02/26     | 🚀 Em progresso |
 | 2 | **Ecossistema Spring** (Boot, Web, Data) | 2-3 Meses | --/--/-- | --/--/--     | ⏳ Em breve |
 | 3 | **Backend Profissional** (APIs, Erros, Paginação) | 2 Meses | --/--/-- | --/--/--     | ⏳ Em breve |
 | 4 | **Engenharia de Dados** (SQL, Banco, Migrations) | 2 Meses | --/--/-- | --/--/--     | ⏳ Em breve |
@@ -79,13 +79,13 @@ Este repositório serve como meu guia de estudos e portfólio de evolução na s
 
     - [x] **Java Moderno:** Noções básicas de Streams e Lambdas.
 
-- [ ] **Profissionalismo:**
+- [x] **Profissionalismo:**
 
     - [x] Tratamento de Exceções (`try-catch`, `try-with-resources`).
 
-    - [ ] Debugging básico no IntelliJ.
+    - [x] Debugging básico no IntelliJ.
 
-    - [ ] Estudar JVM.
+    - [x] Estudar JVM.
 
 
 
