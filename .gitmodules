@@ -1,0 +1,3 @@
+[submodule "spring-boot-direto-das-trincheiras"]
+	path = spring-boot-direto-das-trincheiras
+	url = https://github.com/rafaeldiasgarcia/spring-boot-direto-das-trincheiras.git
