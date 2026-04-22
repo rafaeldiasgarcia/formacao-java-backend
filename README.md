@@ -31,9 +31,9 @@ Este repositório serve como meu guia de estudos e portfólio de evolução na s
 
 | Fase | Pilar | Prazo Est. | Início | Última Lição | Status |
 | :--- | :--- | :--- | :--- |:-------------| :--- |
-| 1 | **Fundamentos Sólidos** (Sintaxe, OO, Lógica) | 1-2 Meses | 31/12/25 | 18/02/26     | 🚀 Em progresso |
-| 2 | **Ecossistema Spring** (Boot, Web, Data) | 2-3 Meses | --/--/-- | --/--/--     | ⏳ Em breve |
-| 3 | **Backend Profissional** (APIs, Erros, Paginação) | 2 Meses | --/--/-- | --/--/--     | ⏳ Em breve |
+| 1 | **Fundamentos Sólidos** (Sintaxe, OO, Lógica) | 1-2 Meses | 31/12/25 | 18/02/26     | ✅ Concluído |
+| 2 | **Ecossistema Spring** (Boot, Web, Data) | 2-3 Meses | 09/02/26 | 22/04/26     | ✅ Concluído |
+| 3 | **Backend Profissional** (APIs, Erros, Paginação) | 2 Meses | --/--/-- | --/--/--     | 🚀 Em progresso |
 | 4 | **Engenharia de Dados** (SQL, Banco, Migrations) | 2 Meses | --/--/-- | --/--/--     | ⏳ Em breve |
 | 5 | **Arquitetura e Carreira** (Clean Code, Testes) | 3 Meses | --/--/-- | --/--/--     | ⏳ Em breve |
 
