@@ -31,9 +31,9 @@ Este repositório serve como meu guia de estudos e portfólio de evolução na s
 
 | Fase | Pilar | Prazo Est. | Início | Última Lição | Status |
 | :--- | :--- | :--- | :--- |:-------------| :--- |
-| 1 | **Fundamentos Sólidos** (Sintaxe, OO, Lógica) | 1-2 Meses | 31/12/25 | 18/02/26     | ✅ Concluído |
-| 2 | **Ecossistema Spring** (Boot, Web, Data) | 2-3 Meses | 09/02/26 | 22/04/26     | ✅ Concluído |
-| 3 | **Backend Profissional** (APIs, Erros, Paginação) | 2 Meses | --/--/-- | --/--/--     | 🚀 Em progresso |
+| 1 | **Fundamentos Sólidos** (Sintaxe, OO, Lógica) | 1-2 Meses | 31/12/25 | 08/02/26     | ✅ Concluído |
+| 2 | **Ecossistema Spring** (Boot, Web, Data) | 2-3 Meses | 09/02/26 | 10/04/26     | ✅ Concluído |
+| 3 | **Backend Profissional** (APIs, Erros, Paginação) | 2 Meses | 10/04/26 | 22/04/26     | ✅ Concluído |
 | 4 | **Engenharia de Dados** (SQL, Banco, Migrations) | 2 Meses | --/--/-- | --/--/--     | ⏳ Em breve |
 | 5 | **Arquitetura e Carreira** (Clean Code, Testes) | 3 Meses | --/--/-- | --/--/--     | ⏳ Em breve |
 
@@ -95,17 +95,17 @@ Este repositório serve como meu guia de estudos e portfólio de evolução na s
 
 
 
-- [ ] **Spring Boot Core:** Injeção de Dependência e Container.
+- [x] **Spring Boot Core:** Injeção de Dependência e Container.
 
-- [ ] **Configuração:** `application.properties` e Profiles.
+- [x] **Configuração:** `application.properties` e Profiles.
 
-- [ ] **Spring Web:** Criação de APIs RESTful.
+- [x] **Spring Web:** Criação de APIs RESTful.
 
-- [ ] **Spring Data JPA:** Repositories e Entidades.
+- [x] **Spring Data JPA:** Repositories e Entidades.
 
-- [ ] **Validação:** Bean Validation.
+- [x] **Validação:** Bean Validation.
 
-- [ ] **Segurança:** Spring Security Básico.
+- [x] **Segurança:** Spring Security Básico.
 
 
 
@@ -115,13 +115,13 @@ Este repositório serve como meu guia de estudos e portfólio de evolução na s
 
 
 
-- [ ] **Design de API:** Verbos HTTP, Status Codes, Versionamento.
+- [x] **Design de API:** Verbos HTTP, Status Codes, Versionamento.
 
-- [ ] **Qualidade:** Tratamento Global de Erros (`@ControllerAdvice`).
+- [x] **Qualidade:** Tratamento Global de Erros (`@ControllerAdvice`).
 
-- [ ] **Comunicação:** Consumo de APIs externas.
+- [x] **Comunicação:** Consumo de APIs externas.
 
-- [ ] **Documentação:** Swagger/OpenAPI.
+- [x] **Documentação:** Swagger/OpenAPI.
 
 
 
